@@ -18,5 +18,3 @@ Ext.onReady(function ()
 {
     Ext.create("Hongbo.Application");
 });
-
-//test
